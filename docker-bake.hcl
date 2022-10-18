@@ -5,7 +5,7 @@ variable "REGISTRY" {
 }
 
 variable "REPO" {
-    default = "sunasteriskrnd/php-dev"
+    default = "daothaison/php-dev"
 }
 
 group "default" {
